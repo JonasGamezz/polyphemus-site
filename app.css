@@ -248,7 +248,7 @@ ul {
 }
 
 .header-title:hover, .header-title:after {
-    color: #4c7677;
+    background-image: #3791b5;
     transition: 1s ease-in-out;
     text-shadow: #495057 5px 5px 5px;
 }

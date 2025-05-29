@@ -140,6 +140,12 @@ ul {
     border-radius: 6px;
 }
 
+.highlight-quinary {
+    background-color: hsla(11, 50%, 45%, 0.75);
+    color: #ffffff;
+    border-radius: 6px;
+}
+
 .highlight-primary:hover {
     background-color: #1c7ed6 ;
     box-shadow: 5px 5px 5px #08243d;
@@ -160,6 +166,10 @@ ul {
     box-shadow: 5px 5px 5px hsla(125, 80%, 20%, 0.75);
 }
 
+.highlight-quinary:hover {
+    background-color: hsla(11, 50%, 30%, 0.75);
+    box-shadow: 5px 5px 5px hsla(11, 50%, 20%, 0.75);
+}
 /* Tooltip container */
 .tooltip {
     position: relative;

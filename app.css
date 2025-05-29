@@ -272,3 +272,8 @@ ul {
     transition: 1s ease-in-out;
     text-shadow: #495057 5px 5px 5px;
 }
+
+.polyphemus-text {
+    font-family: Helvetica, sans-serif;
+    color: rgb(61, 7, 7)
+}

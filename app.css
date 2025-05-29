@@ -134,6 +134,12 @@ ul {
     border-radius: 6px;
 }
 
+.highlight-quaternary {
+    background-color: hsla(125,80%, 45%, 0.75);
+    color: #ffffff;
+    border-radius: 6px;
+}
+
 .highlight-primary:hover {
     background-color: #1c7ed6 ;
     box-shadow: 5px 5px 5px #08243d;
@@ -145,6 +151,12 @@ ul {
 }
 
 .highlight-tertiary:hover {
+    background-color: hsla(125, 80%, 30%, 0.75);
+    box-shadow: 5px 5px 5px hsla(125, 80%, 20%, 0.75);;
+
+}
+
+.highlight-quaternary:hover {
     background-color: #f76707;
     box-shadow: 5px 5px 5px #532302;
 

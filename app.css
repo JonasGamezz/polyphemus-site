@@ -150,15 +150,14 @@ ul {
     box-shadow: 5px 5px 5px #201542;
 }
 
-.highlight-tertiary:hover {
-    background-color: hsla(125, 80%, 30%, 0.75);
-    box-shadow: 5px 5px 5px hsla(125, 80%, 20%, 0.75);;
-
-}
-
 .highlight-quaternary:hover {
     background-color: #f76707;
     box-shadow: 5px 5px 5px #532302;
+}
+
+.highlight-quaternary:hover {
+    background-color: hsla(125, 80%, 30%, 0.75);
+    box-shadow: 5px 5px 5px hsla(125, 80%, 20%, 0.75);;
 
 }
 

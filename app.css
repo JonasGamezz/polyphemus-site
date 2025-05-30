@@ -294,3 +294,7 @@ ul {
     color: rgb(13, 46, 107);
     font-style: italic;
 }
+
+.odysseus-text .tooltiptext, .polyphemus-text .tooltiptext {
+    font-style: normal;
+}

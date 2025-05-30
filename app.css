@@ -287,9 +287,10 @@ ul {
 .polyphemus-text p {
     color: rgb(138, 16, 16);
     font-weight: 200;
+    font-style: italic;
 }
 
 .odysseus-text p {
     color: rgb(13, 46, 107);
-    font-weight: 200;
+    font-style: italic;
 }

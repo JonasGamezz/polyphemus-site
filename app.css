@@ -110,8 +110,8 @@ ul {
     font-size: 1.2rem;
 }
 
-p img {
-    height: auto;
+.btn img {
+    height: 2rem;
 }
 
 /* ------------------------ COMPONENTS ------------------------ */

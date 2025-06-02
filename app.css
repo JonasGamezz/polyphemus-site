@@ -250,8 +250,8 @@ ul {
 .nav-bar {
     display: flex;
     background-color: #1c7ed6;
-    justify-content: center
-    align-items: center
+    justify-content: center;
+    align-items: center;
 }
 
 .text-title {
